@@ -3,6 +3,7 @@ Converts Ultra Mate Diary files to text
 
 
 To use this converter:
+
 First back up your UltraMate diary in the app and move the backup file to an empty directory on your computer.
 
 Then rename your backup file to "diary" with no file extension.
